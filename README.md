@@ -1,5 +1,5 @@
 # module2-solved
-https://gusantoz.github.io/module2-solved/
+https://gusantoz.github.io/mod2_solution/
 
 O desafio era desenvolver uma pagina simples com 3 section, cada uma delas deve conter um texto qualquer (lorem ipsum). Devemos usar break point's para determinar o tamanho  desenvolvido para Desktop (>992px), Tablet (768px>x<991px) e Celular (<767px).<br>
 O posicionamento das section depende do tamanho da tela:<br>
