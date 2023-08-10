@@ -1,7 +1,7 @@
 # module2-solved
 https://gusantoz.github.io/module2-solved/
 
-//O desafio era desenvolver uma pagina simples com 3 section, cada uma delas deve conter um texto qualquer (lorem ipsum). Devemos usar break point's para determinar o tamanho <br> desenvolvido para Desktop (>992px), Tablet (768px>x<991px) e Celular (<767px).<br>
+//O desafio era desenvolver uma pagina simples com 3 section, cada uma delas deve conter um texto qualquer (lorem ipsum). Devemos usar break point's para determinar o tamanho  desenvolvido para Desktop (>992px), Tablet (768px>x<991px) e Celular (<767px).<br>
 O posicionamento das section depende do tamanho da tela:<br>
 1- No tamanho "Desktop" as três devem ficar uma ao lado da outra, de forma que dividam o espaço da tela de maniera uniforme. Conforme diminuimos ligeriamente a tela elas devem <br> se reposicionar proporcionalmente.<br>
 2- No tamanho "Tablet" as duas primeiras section devem ficar lado a lado, ambas possuindo o mesmo tamanho. Porem a terceira deve se posicionar abaixo das acima, ocupando a <br> totalidade da tela.<br>
